@@ -1,7 +1,7 @@
 /**
  * Boolean
  */
-public class Boolean {
+public class Boolean01 {
 
   public static void main(String[] args) {
     boolean isPass = true;
@@ -9,4 +9,5 @@ public class Boolean {
       System.out.println("考试通过");
     }
   }
+
 }
